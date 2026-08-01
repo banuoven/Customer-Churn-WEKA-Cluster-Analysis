@@ -44,7 +44,7 @@ Builds a hierarchy of clusters bottom-up. Three linkage criteria were evaluated:
 A partition-based centroid algorithm configured for **k = 2**, iteratively minimizing the
 within-cluster sum of squares (WCSS) using the standard Euclidean distance formula:
 
-|<img width="248" height="32" alt="05_euclidean_distance_formula" src="https://github.com/user-attachments/assets/e420115a-5238-4675-9597-5daf9d587d26" /> |<img width="1208" height="643" alt="04_kmeans_weka_output" src="https://github.com/user-attachments/assets/9ca31f31-d9c5-4396-bd8c-c72a9be14b4d" /> |<img width="1208" height="643" alt="04_kmeans_weka_output" src="https://github.com/user-attachments/assets/80f60926-5b94-4d64-a16f-fc6c8803d55a" /> |<img width="1208" height="643" alt="06_kmeans_visualize_scatter" src="https://github.com/user-attachments/assets/0b2ca14f-bb85-4cb2-8885-b79913c48381" /> |
+| <img width="248" height="32" alt="05_euclidean_distance_formula" src="https://github.com/user-attachments/assets/e420115a-5238-4675-9597-5daf9d587d26" /> | <img width="1208" height="643" alt="04_kmeans_weka_output" src="https://github.com/user-attachments/assets/9ca31f31-d9c5-4396-bd8c-c72a9be14b4d" /> | <img width="1208" height="643" alt="04_kmeans_weka_output" src="https://github.com/user-attachments/assets/80f60926-5b94-4d64-a16f-fc6c8803d55a" /> | <img width="1208" height="643" alt="06_kmeans_visualize_scatter" src="https://github.com/user-attachments/assets/0b2ca14f-bb85-4cb2-8885-b79913c48381" /> |
 
 ### EM (Expectation-Maximization)
 

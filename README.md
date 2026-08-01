@@ -37,18 +37,23 @@ Builds a hierarchy of clusters bottom-up. Three linkage criteria were evaluated:
 
 | Single Linkage | Complete Linkage | Ward's Method |
 |---|---|---|
-| ![Single](images/01_dendrogram_single.png) | ![Complete](images/02_dendrogram_complete.png) | ![Ward](images/03_dendrogram_ward.png) |
+|<img width="1205" height="639" alt="01_dendrogram_single" src="https://github.com/user-attachments/assets/00f5c7fd-e9b4-469d-9c1c-dd8f49c97697" />
+<img width="1208" height="636" alt="02_dendrogram_complete" src="https://github.com/user-attachments/assets/35f5d1f4-127d-488a-a846-c76e0000ee2e" />
+
+
+| <img width="1208" height="636" alt="03_dendrogram_ward" src="https://github.com/user-attachments/assets/23cbb554-6ad6-4742-8226-c1f5c9e0a5b9" />
+|
 
 ### K-Means
 
 A partition-based centroid algorithm configured for **k = 2**, iteratively minimizing the
 within-cluster sum of squares (WCSS) using the standard Euclidean distance formula:
 
-![Euclidean Distance Formula](images/05_euclidean_distance_formula.png)
+<img width="248" height="32" alt="05_euclidean_distance_formula" src="https://github.com/user-attachments/assets/2c1e9438-4e6a-47ce-9728-dbeb2b18fcac" />
 
-![K-Means Weka Output](images/04_kmeans_weka_output.png)
+<img width="1208" height="643" alt="04_kmeans_weka_output" src="https://github.com/user-attachments/assets/caf3c338-953f-4af7-8089-d694ad6ab74b" />
 
-![K-Means Visualize Scatter](images/06_kmeans_visualize_scatter.png)
+<img width="1208" height="643" alt="06_kmeans_visualize_scatter" src="https://github.com/user-attachments/assets/192fb697-6f24-4f03-aa2b-86a8d9264633" />
 
 ### EM (Expectation-Maximization)
 
@@ -84,11 +89,16 @@ actual `Churn` distribution (misclassification / error rate):
 
 | Hierarchical (Single) | Hierarchical (Complete) | Hierarchical (Ward) |
 |---|---|---|
-| ![Single Output](images/07_weka_hierarchical_single.png) | ![Complete Output](images/08_weka_hierarchical_complete.png) | ![Ward Output](images/09_weka_hierarchical_ward.png) |
+| <img width="1207" height="636" alt="07_weka_hierarchical_single" src="https://github.com/user-attachments/assets/61314552-9271-4aa5-a3d3-f34935a769e4" />
+ |<img width="1209" height="636" alt="08_weka_hierarchical_complete" src="https://github.com/user-attachments/assets/2a48ac45-8093-4418-8069-35bef5ac6e05" />
+ | <img width="1207" height="641" alt="09_weka_hierarchical_ward" src="https://github.com/user-attachments/assets/ddecac0b-48c8-46ba-80cd-9da7422d7e0e" />|
 
 | EM | DBSCAN | FarthestFirst |
 |---|---|---|
-| ![EM Output](images/10_weka_em_output.png) | ![DBSCAN Output](images/11_weka_dbscan_output.png) | ![FarthestFirst Output](images/12_weka_farthestfirst_output.png) |
+|<img width="1208" height="642" alt="10_weka_em_output" src="https://github.com/user-attachments/assets/de365e13-9c62-4bb4-a665-b563b6916d15" />
+ | <img width="1208" height="638" alt="11_weka_dbscan_output" src="https://github.com/user-attachments/assets/bda6ccbf-6cd5-4117-9ce7-2188c593cef3" />
+ | <img width="1209" height="638" alt="12_weka_farthestfirst_output" src="https://github.com/user-attachments/assets/96a1b2bc-ec37-444b-aed0-611190079575" />
+ |
 
 ## 5. Detailed Conclusion and Internal Quality Evaluation
 

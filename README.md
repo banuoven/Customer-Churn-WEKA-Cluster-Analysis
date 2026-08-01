@@ -44,11 +44,7 @@ Builds a hierarchy of clusters bottom-up. Three linkage criteria were evaluated:
 A partition-based centroid algorithm configured for **k = 2**, iteratively minimizing the
 within-cluster sum of squares (WCSS) using the standard Euclidean distance formula:
 
-![Euclidean Distance Formula](images/05_euclidean_distance_formula.png)
-
-![K-Means Weka Output](images/04_kmeans_weka_output.png)
-
-![K-Means Visualize Scatter](images/06_kmeans_visualize_scatter.png)
+| ![Euclidean Distance Formula](images/05_euclidean_distance_formula.png)| ![K-Means Weka Output| (images/04_kmeans_weka_output.png) | ![K-Means Visualize Scatter](images/06_kmeans_visualize_scatter.png)
 
 ### EM (Expectation-Maximization)
 

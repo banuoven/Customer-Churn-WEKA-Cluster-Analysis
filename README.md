@@ -89,9 +89,7 @@ actual `Churn` distribution (misclassification / error rate):
 
 | Hierarchical (Single) | Hierarchical (Complete) | Hierarchical (Ward) |
 |---|---|---|
-| <img width="1207" height="636" alt="07_weka_hierarchical_single" src="https://github.com/user-attachments/assets/61314552-9271-4aa5-a3d3-f34935a769e4" />
- |<img width="1209" height="636" alt="08_weka_hierarchical_complete" src="https://github.com/user-attachments/assets/2a48ac45-8093-4418-8069-35bef5ac6e05" />
- | <img width="1207" height="641" alt="09_weka_hierarchical_ward" src="https://github.com/user-attachments/assets/ddecac0b-48c8-46ba-80cd-9da7422d7e0e" />|
+| <img width="1207" height="636" alt="07_weka_hierarchical_single" src="https://github.com/user-attachments/assets/61314552-9271-4aa5-a3d3-f34935a769e4" /> |<img width="1209" height="636" alt="08_weka_hierarchical_complete" src="https://github.com/user-attachments/assets/2a48ac45-8093-4418-8069-35bef5ac6e05" /> | <img width="1207" height="641" alt="09_weka_hierarchical_ward" src="https://github.com/user-attachments/assets/ddecac0b-48c8-46ba-80cd-9da7422d7e0e" />|
 
 | EM | DBSCAN | FarthestFirst |
 |---|---|---|

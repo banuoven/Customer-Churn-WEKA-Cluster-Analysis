@@ -37,12 +37,7 @@ Builds a hierarchy of clusters bottom-up. Three linkage criteria were evaluated:
 
 | Single Linkage | Complete Linkage | Ward's Method |
 |---|---|---|
-|<img width="1205" height="639" alt="01_dendrogram_single" src="https://github.com/user-attachments/assets/00f5c7fd-e9b4-469d-9c1c-dd8f49c97697" />
-<img width="1208" height="636" alt="02_dendrogram_complete" src="https://github.com/user-attachments/assets/35f5d1f4-127d-488a-a846-c76e0000ee2e" />
-
-
-| <img width="1208" height="636" alt="03_dendrogram_ward" src="https://github.com/user-attachments/assets/23cbb554-6ad6-4742-8226-c1f5c9e0a5b9" />
-|
+|<img width="1205" height="639" alt="01_dendrogram_single" src="https://github.com/user-attachments/assets/00f5c7fd-e9b4-469d-9c1c-dd8f49c97697" /> |<img width="1208" height="636" alt="02_dendrogram_complete" src="https://github.com/user-attachments/assets/35f5d1f4-127d-488a-a846-c76e0000ee2e" /> | <img width="1208" height="636" alt="03_dendrogram_ward" src="https://github.com/user-attachments/assets/23cbb554-6ad6-4742-8226-c1f5c9e0a5b9" /> |
 
 ### K-Means
 
@@ -93,10 +88,7 @@ actual `Churn` distribution (misclassification / error rate):
 
 | EM | DBSCAN | FarthestFirst |
 |---|---|---|
-|<img width="1208" height="642" alt="10_weka_em_output" src="https://github.com/user-attachments/assets/de365e13-9c62-4bb4-a665-b563b6916d15" />
- | <img width="1208" height="638" alt="11_weka_dbscan_output" src="https://github.com/user-attachments/assets/bda6ccbf-6cd5-4117-9ce7-2188c593cef3" />
- | <img width="1209" height="638" alt="12_weka_farthestfirst_output" src="https://github.com/user-attachments/assets/96a1b2bc-ec37-444b-aed0-611190079575" />
- |
+|<img width="1208" height="642" alt="10_weka_em_output" src="https://github.com/user-attachments/assets/de365e13-9c62-4bb4-a665-b563b6916d15" /> | <img width="1208" height="638" alt="11_weka_dbscan_output" src="https://github.com/user-attachments/assets/bda6ccbf-6cd5-4117-9ce7-2188c593cef3" /> | <img width="1209" height="638" alt="12_weka_farthestfirst_output" src="https://github.com/user-attachments/assets/96a1b2bc-ec37-444b-aed0-611190079575" /> |
 
 ## 5. Detailed Conclusion and Internal Quality Evaluation
 

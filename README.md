@@ -37,10 +37,7 @@ Builds a hierarchy of clusters bottom-up. Three linkage criteria were evaluated:
 
 | Single Linkage | Complete Linkage | Ward's Method |
 |---|---|---|
-|<img width="1205" height="639" alt="01_dendrogram_single" src="https://github.com/user-attachments/assets/2e5ac455-2f5b-49fd-94e2-919c64148e13" />
- |<img width="1208" height="636" alt="02_dendrogram_complete" src="https://github.com/user-attachments/assets/481ee1f2-20b2-4b2d-9ad0-1430d57c3dd2" />
- |<img width="1208" height="636" alt="03_dendrogram_ward" src="https://github.com/user-attachments/assets/fa9eb66b-60a1-435d-ae4d-dadb5b569bf6" />
- |
+|<img width="1205" height="639" alt="01_dendrogram_single" src="https://github.com/user-attachments/assets/2e5ac455-2f5b-49fd-94e2-919c64148e13" /> |<img width="1208" height="636" alt="02_dendrogram_complete" src="https://github.com/user-attachments/assets/481ee1f2-20b2-4b2d-9ad0-1430d57c3dd2" /> |<img width="1208" height="636" alt="03_dendrogram_ward" src="https://github.com/user-attachments/assets/fa9eb66b-60a1-435d-ae4d-dadb5b569bf6" /> |
 
 ### K-Means
 
